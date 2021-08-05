@@ -13,7 +13,6 @@
   $$
   \sigma'(x)=\sigma(x)-\sigma^2(x)
   $$
-  
 
 ## Tanh
 
